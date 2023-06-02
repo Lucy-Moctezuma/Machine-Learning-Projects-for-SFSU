@@ -2,7 +2,11 @@
 
 Folders:
 
-## Mark Machine Learning (Grant)
+## MARC Machine Learning
+**Grant Recipient:** Raymond M Esquerra (Professor of Chemistry and Biochemistry at San Francisco State University)
+**Grant Name:** Demystifying Machine Learning and Best Data Practices Workshop Series for Underrepresented STEM Undergraduate and MS Researchers bound for PhD Training Programs
+**Grant Number:** T34-GM008574
+
 Contains 2 small projects geared towards teaching undergraduates a first quick glance at Machine Learning
 1) COVID data predictions using Decision Trees
 2) Mutant vs Wild yeast cells image classification using Convolutional Neural Networks
