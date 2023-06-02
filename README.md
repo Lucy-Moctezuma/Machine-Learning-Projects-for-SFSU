@@ -9,7 +9,7 @@
 **Grant Number:** T34-GM008574
 
 Contains 2 small projects geared towards teaching undergraduates a first quick glance at Machine Learning
-1) COVID data predictions using Decision Trees
+1) COVID data predictions using Decision Trees (*Notebooks were translated to Google Cloud Platform as part of the Grant)
 2) Mutant vs Wild yeast cells image classification using Convolutional Neural Networks
 
 ## E. Coli Machine Learning (Using Moragadivand's paper Data)
