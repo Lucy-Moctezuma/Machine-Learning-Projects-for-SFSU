@@ -9,9 +9,16 @@
 **Grant Number:** T34-GM008574
 
 Contains 2 small projects geared towards teaching undergraduates a first quick glance at Machine Learning
-1) COVID data predictions using Decision Trees (*Notebooks were ported to Google Cloud Platform as part of the Grant*)
-2) Mutant vs Wild yeast cells image classification using Convolutional Neural Networks
-
+1) Workshop 1 (*Ported to Google Cloud Platform as part of the Grant*)
+ - COVID data predictions using Decision Tree Notebook
+ - Dataset
+ - Support Files (Unused for the Tutorial)
+ 
+3) Workshop 2
+ - Mutant vs Wild Type yeast cells image classification using Convolutional Neural Networks Notebook
+ - Dataset (Training, Validation and Testing Folder of Images)
+ - Support Files (Used to create imagesin tutorial)
+ 
 ## E. Coli Machine Learning (Using Moragadivand's paper Data)
 Contains code to perform different Machine Learning Algorythms using E.Coli Data from Moragadivands Paper's Data and premise, 
 each notebook was created as a series of steps designed to teach beginners the basics for data clean up, Machine Learning Algorythms using Sklearn, 
