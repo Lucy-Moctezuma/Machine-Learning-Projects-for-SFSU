@@ -19,7 +19,7 @@ Contains 2 small projects geared towards teaching undergraduates a first quick g
 3) Workshop 2
  - Mutant vs Wild Type yeast cells image classification using Convolutional Neural Networks Notebook
  - Dataset (Training, Validation and Testing Folder of Images)
- - Support Files (Used to create images in tutorial)
+ - Support Files (Used to create Maxpool image example in tutorial)
  
 ## E. Coli Machine Learning (Using Moragadivand's paper Data)
 Contains code to perform different Machine Learning Algorythms using E.Coli Data from Moragadivands Paper's Data and premise, 
