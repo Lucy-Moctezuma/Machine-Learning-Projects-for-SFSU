@@ -1,4 +1,5 @@
 # Notebooks created under different SFSU Projects
+All work described below was supervised and sponsored under Dr. Pleuni Pennings, Biology professor at San Francisco State University, as part of her amazing efforts to create a space to teach and mentor underepresented students in STEM fields.
 
 ## MARC Machine Learning
 
