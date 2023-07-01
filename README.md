@@ -11,7 +11,7 @@ All work described below was supervised and sponsored under Dr. Pleuni Pennings,
 
 Contains 2 small projects geared towards teaching undergraduates a first quick glance at Machine Learning
 
-**1) Workshop 1** (*Ported to Google Cloud Platform as part of the Grant*)
+**1) Workshop 1** (*Ported to Google Cloud Platform as part of [NIGMS Module](https://github.com/NIGMS/Introduction-to-Data-Science-for-Biology)*)
  - 1A) COVID data predictions using Decision Tree Notebook
  - 1B) Data Drifting and Model Performance Notebook
  - Dataset (Training (labels and features) and Testing (labels and features) CSV files)
