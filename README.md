@@ -29,21 +29,27 @@ each notebook was created as a series of steps designed to teach beginners the b
 XGBoost and other python packages to predict Antibiotic Resistance in E. Coli using Population Structure, Gene Presence and Absence and Year of Isolation. The purpose of the notebooks is simply to help biology students familiarize themselves with machine learning algorythms so they can try using features they find more suitable in their own research projects.
 
 
-1) Loading and Preparing Data for Machine Learning Models  
+**1) Loading and Preparing Data for Machine Learning Models**
+
    The first notebook contains basic explanations and some background concepts of the data (SNP's, clusters, genes, etc) for the project. The notebook is meant to familiarize with the type of features (population structure, gene presence or absence and year of isolation) used to make predictions on antibiotic resistance.
    
-2) Logistic Regression
+**2) Logistic Regression**
+
    Explanation of Basic Concepts on Logistic regression algorythm.
    
-3) Random Forest
+**3) Random Forest**
+
    Explanation of Basic Concepts on Random Forest algorythm.
    
-4) Extreme Gradient Boosted Trees
+**4) Extreme Gradient Boosted Trees**
+
    Explanation of Basic Concepts on Extreme Gradient Boosted Trees algorythm.
    
-5) Deep Learning
+**5) Deep Learning**
+
    Explanation of Basic Concepts on Extreme Gradient Boosted Trees algorythm.
    
-6) Final Metrics graph
+**6) Final Metrics graph**
+
     Final graph comparing the best results from all machine learning algorythms for each antibiotic drug (recall and precission).
     
