@@ -51,5 +51,5 @@ XGBoost and other python packages to predict Antibiotic Resistance in E. Coli us
    
 **6) Final Metrics graph**
 
-    Final graph comparing the best results from all machine learning algorythms for each antibiotic drug (recall and precission).
+   Final graph comparing the best results from all machine learning algorythms for each antibiotic drug (recall and precission).
     
