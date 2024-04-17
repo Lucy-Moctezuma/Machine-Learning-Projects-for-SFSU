@@ -1,6 +1,10 @@
 # Notebooks created under different SFSU Projects
 All work described below was supervised and sponsored under Dr. Pleuni Pennings, Biology professor at San Francisco State University, as part of her amazing efforts to create a space to teach coding skills and mentor underepresented students in STEM fields at [CoDELab](https://pleunipennings.wordpress.com/).
 
+All notebooks in this repository are meant to be used using Google Colab. You can open the each notebook by clicking on the button on the top left of each of the notebooks:
+![Colab Icon](https://github.com/MarcMachineLearning/Introduction-to-Machine-Learning/assets/102837358/1d452fe0-e293-491c-8d3b-3deea32f01c0)
+You can then run, modify and save your own copy.
+
 ## MARC Machine Learning
 
 **Grant Recipient:** Raymond M Esquerra (Professor of Chemistry and Biochemistry at San Francisco State University)
