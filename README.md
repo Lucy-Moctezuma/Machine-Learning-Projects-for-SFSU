@@ -36,7 +36,7 @@ XGBoost and other python packages to predict Antibiotic Resistance in E. Coli us
 
 Below is the list of Google Colab Notebook tutorials part of this project:
 
-**1) Loading and Preparing Data for Machine Learning Models**
+**1) Introduction to ML for Antibiotic Resistance Prediction for E.Coli**
    
 **2) Logistic Regression**
    
